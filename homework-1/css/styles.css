@@ -1,0 +1,18 @@
+li {
+    list-style: none;
+}
+
+.navigac {
+    display: flex;
+}
+
+.navigac-link {
+    margin-right: 20px;
+}
+
+.knopka {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 15px 10px;
+    margin-top: 30px;
+}
